@@ -16,4 +16,4 @@ The instructions to make it run are the same;
 
 - Install the ASCOM plattform.
 - Install the ASCOM driver (can be downloaded from Kevin Ferrare <a href="https://drive.google.com/file/d/0B04IJvbw0nqmeHJLQS13eVotQ3M/viewB">page</A>).
-- Install the Arduno code in the hand controller.
+- Install the Arduino code in the hand controller.
